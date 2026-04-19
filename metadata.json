@@ -1,0 +1,8 @@
+{
+  "name": "Botanist AI",
+  "description": "A smart gardening assistant that identifies plants and provides care instructions using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
